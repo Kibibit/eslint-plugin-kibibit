@@ -2,6 +2,8 @@
 
 ESLint rules for Kibibit projects
 
+Created using [The ESLint generator for Yeoman](https://github.com/eslint/generator-eslint).
+
 ## Installation
 
 You'll first need to install [ESLint](http://eslint.org):
